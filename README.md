@@ -1,5 +1,3 @@
-# Loan-Eligibility-Prediction
-
 # Loan Approval Prediction System  
 Predicts loan eligibility using applicant details (income, credit history, etc.).  
 **Tech Stack**: Python, Pandas, NumPy, Scikit-learn, Seaborn/Matplotlib  
